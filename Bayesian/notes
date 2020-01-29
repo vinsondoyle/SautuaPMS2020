@@ -1,0 +1,7 @@
+The following two files can be found in this directory:
+
+Alignment for analysis in MrBayes with model parameters and partitions (from Partition Finder 2):
+arg_bak_gro_6locus_GINSi_final_aln.partitionFinder.nexus   1.42 MB
+
+Majority-rule consensus tree computed by SumTrees with posteriors >= 0.85 mapped to 2 decimal places:
+arg_bak_gro_5locus_GINSi_final_aln.partitionFinder.sumtrees.con.2decs.tre
