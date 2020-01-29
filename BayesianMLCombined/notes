@@ -1,0 +1,7 @@
+This directory contains the ML phylogeny with both bootstrap support (>=50%) and posterior probabilities (>=0.85) mapped.
+
+The file with all bipartitions shown:
+arg_bak_gro_5locus_GINSi_final_aln.partitionFinder.sumtrees.con.2decs.mod.pp.bs.tre
+
+The final tree figure with non-focal clades collapsed:
+arg_bak_gro_5locus_GINSi_final_aln.partitionFinder.sumtrees.con.2decs.mod.pp.bs.FigTree.annot.v3-01.tif
