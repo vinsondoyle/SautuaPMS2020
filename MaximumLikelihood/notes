@@ -1,0 +1,19 @@
+# The following files are in the MaximumLikelihood directory.
+
+## Alignments/RAxML input files:
+GroenewaldEtAl_ITS_fasta.phylip   147.14 kB
+arg_bak_gapdh_GINSi_final_aln_fasta.phylip   205.86 kB
+arg_bak_gro_6locus_GINSi_final_aln.phylip   1.42 MB
+arg_bak_gro_actin_GINSi_final_aln_fasta.phylip   118.41 kB
+arg_bak_gro_cal_plus_reseq_GINSi_final_aln_fasta.phylip   213.53 kB
+arg_bak_gro_his_GINSi_final_aln_fasta.phylip   188.94 kB
+arg_bak_gro_tef_GINSi_final_aln_fasta.phylip   309.13 kB
+
+## ML trees with bootstrap support:
+RAxML_bipartitions.GroenewaldEtAl_ITS_fasta.phylip.tre   16.65 kB
+RAxML_bipartitions.arg_bak_gapdh_GINSi_final_aln_fasta.phylip.tre   13.54 kB
+RAxML_bipartitions.arg_bak_gro_6locus_GINSi_final_aln.phylip.tre   30.32 kB
+RAxML_bipartitions.arg_bak_gro_actin_GINSi_final_aln_fasta.phylip.tre   29.74 kB
+RAxML_bipartitions.arg_bak_gro_cal_plus_reseq_GINSi_final_aln_fasta.phylip.tre   29.67 kB
+RAxML_bipartitions.arg_bak_gro_his_GINSi_final_aln_fasta.phylip.tre   30.07 kB
+RAxML_bipartitions.arg_bak_gro_tef_GINSi_final_aln_fasta.phylip.tre   30.16 kB
